@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e393508b-1e64-4ba5-b802-b28402b8ff35" name="Changes" comment="1107 - 2">
-      <change afterPath="$PROJECT_DIR$/config/expectations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/playwright.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fixtures/page.py" afterDir="false" />
+    <list default="true" id="e393508b-1e64-4ba5-b802-b28402b8ff35" name="Changes" comment="2207 - 1">
+      <change afterPath="$PROJECT_DIR$/pages/index_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_index_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +87,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720708023657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2207 - 1">
+      <option name="closed" value="true" />
+      <created>1721651262647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721651262647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1107" />
     <MESSAGE value="1107 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1107 - 2" />
+    <MESSAGE value="2207 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2207 - 1" />
   </component>
 </project>
